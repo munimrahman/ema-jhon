@@ -1,0 +1,11 @@
+table{
+    margin-left: 10px;
+}
+table td:last-child {
+    color: red;
+    padding-left: 50px;
+    text-align: right;
+}
+.text-center{
+    text-align: center;
+}
